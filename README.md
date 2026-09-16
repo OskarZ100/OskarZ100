@@ -1,4 +1,4 @@
-## Hello 👋
+## 👋🗿 Hello 👋🗿
 ### About me 
 My name is Oskar, i am a student at CSU (Cleveland State University)
 I am currently Studying Computer Science with a minor in Mathematics
