@@ -58,10 +58,6 @@ I enjoy working on a lot of personal projects and learning new things
   </tr>
 </table>
 
-### STATS
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OskarZ100&layout=compact" />
-</p>
 
 ### THANKS FOR VIEWING MY CONTACT STUFF IS IN LINKS
 email: oskaraszincenko500@gmail.com
