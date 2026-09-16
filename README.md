@@ -67,6 +67,7 @@ I am a big fan of learning different technologies as shown above
     </td>
   </tr>
 </table>
+
 ### THANKS FOR VIEWING MY CONTACT STUFF IS IN LINKS
 email: oskaraszincenko500@gmail.com
 
