@@ -14,7 +14,6 @@ I enjoy working on a lot of personal projects and learning new things
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
-I love to learn new languages, I am currently working with python with plans to develop more in Cpp
 
 ### Technologies and Frameworks
 <p align="center">
@@ -29,7 +28,6 @@ I love to learn new languages, I am currently working with python with plans to 
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"/>
 </p>
 
-I am a big fan of learning different technologies as shown above
 
 ### Projects I like and am working on
 <table>
