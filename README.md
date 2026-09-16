@@ -60,7 +60,7 @@ I enjoy working on a lot of personal projects and learning new things
 
 ### STATS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OskarZ100&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OskarZ100&layout=compact" />
 </p>
 
 ### THANKS FOR VIEWING MY CONTACT STUFF IS IN LINKS
