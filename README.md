@@ -42,26 +42,9 @@ I am a big fan of learning different technologies as shown above
       </a>
     </td>
     <td width="50%">
-      <h3>Unity Project</h3>
-      <p>silly unity game, always liked gameDev so gave it a shot will make another game soon</p>
-      <a href="https://github.com/OskarZ100/First-Unity-Project">
-        View Project →
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
       <h3>JojoChat</h3>
       <p>Real time chat application using WebSockets and Node.js, and a fun game because most chat projects are boring zzz</p>
       <a href="https://github.com/OskarZ100/jojochat">
-        View Project →
-      </a>
-    </td>
-    <td width="50%">
-      <h3>Console Website</h3>
-      <p>A demo portfolio designed to look like a computer terminal. Saw someone make one online, liked it and gave it a shot</p>
-      <a href="https://github.com/OskarZ100/ConsoleWebsite">
         View Project →
       </a>
     </td>
