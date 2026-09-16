@@ -32,14 +32,23 @@ I enjoy working on a lot of personal projects and learning new things
 ### Projects I like and am working on
 <table>
   <tr>
-    <td width="50%">
+    <td width="20%" align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqJheK7v5jtECYmzzT04YVROTNqKEdEGRonuMWnyuTbu5TPEJ58F_JuR81&s=10" width="100" height="100" style="border-radius: 50%;"/>
+    </td>
+    <td width="80%">
       <h3>Hardware Monitor</h3>
       <p>Python hardware monitoring tool, I am interested in hardware so I thought this would be fun</p>
       <a href="https://github.com/OskarZ100/Hardware-Monitor">
         View Project →
       </a>
     </td>
-    <td width="50%">
+  </tr>
+
+  <tr>
+    <td width="20%" align="center">
+      <img src="https://static.wikia.nocookie.net/ninjajojos-bizarre-adventure/images/a/a2/StarPlatinumInfobox.png/revision/latest?cb=20220928220032" width="100" height="100" style="border-radius: 50%;"/>
+    </td>
+    <td width="80%">
       <h3>JojoChat</h3>
       <p>Real time chat application using WebSockets and Node.js, and a fun game because most chat projects are boring zzz</p>
       <a href="https://github.com/OskarZ100/jojochat">
@@ -48,6 +57,11 @@ I enjoy working on a lot of personal projects and learning new things
     </td>
   </tr>
 </table>
+
+### STATS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OskarZ100&show_icons=true" />
+</p>
 
 ### THANKS FOR VIEWING MY CONTACT STUFF IS IN LINKS
 email: oskaraszincenko500@gmail.com
